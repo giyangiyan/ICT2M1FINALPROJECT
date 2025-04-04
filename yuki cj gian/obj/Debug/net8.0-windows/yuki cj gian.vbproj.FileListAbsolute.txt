@@ -1,0 +1,18 @@
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\yuki_cj_gian.Form1.resources
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\yuki_cj_gian.Resources.resources
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\yuki_cj_gian.yow.resources
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\yuki cj gian.vbproj.GenerateResource.cache
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\yuki cj gian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\yuki cj gian.AssemblyInfoInputs.cache
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\yuki cj gian.AssemblyInfo.vb
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\yuki cj gian.vbproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\yuki cj gian\bin\Debug\net8.0-windows\yuki cj gian.exe
+C:\Users\Gian\source\repos\yuki cj gian\bin\Debug\net8.0-windows\yuki cj gian.deps.json
+C:\Users\Gian\source\repos\yuki cj gian\bin\Debug\net8.0-windows\yuki cj gian.runtimeconfig.json
+C:\Users\Gian\source\repos\yuki cj gian\bin\Debug\net8.0-windows\yuki cj gian.dll
+C:\Users\Gian\source\repos\yuki cj gian\bin\Debug\net8.0-windows\yuki cj gian.pdb
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\yuki cj gian.dll
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\refint\yuki cj gian.dll
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\yuki cj gian.pdb
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\yuki cj gian.genruntimeconfig.cache
+C:\Users\Gian\source\repos\yuki cj gian\obj\Debug\net8.0-windows\ref\yuki cj gian.dll
